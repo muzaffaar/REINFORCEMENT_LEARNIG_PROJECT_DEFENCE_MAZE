@@ -1,0 +1,2 @@
+mlagents-learn .\maze_runner.yaml --run-id="Run 1"
+tensorboard --logdir results

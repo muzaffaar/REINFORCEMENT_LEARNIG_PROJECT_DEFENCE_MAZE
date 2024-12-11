@@ -1,0 +1,31 @@
+# Unity-specific folders
+[Libraries]
+Library/
+Logs/
+obj/
+UserSettings/
+
+# Visual Studio and VS Code
+.vs/
+.vscode/
+
+# Python virtual environment
+venv/
+
+# Unity-generated project files
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+*.pid
+*.gz
+
+# Ignore build artifacts
+Build/
+Builds/
